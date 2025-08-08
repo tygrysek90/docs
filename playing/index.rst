@@ -9,6 +9,7 @@ Playing
    finances/index
    footpath/index
    shops_and_stalls/index
+   rides/index
    landscaping/index
    staff/index
    multiplayer/index
